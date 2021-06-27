@@ -1,0 +1,29 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "hello world this is blog 1 ",
+      "text": "Sequi unde <b>fugiat non necessitatibus et.</b> Molestiae aut non sapiente numquam consequatur et itaque. Aut harum aspernatur. Accusamus ducimus excepturi aliquid voluptatem rerum voluptas modi aut iure Ipsum non sed a non perferendis consectetur. Est molestias maiores quis facilis magnam incidunt. Magni omnis beatae fugit dolor. Ut fuga dignissimos corrupti ut. Nam repellendus recusandae sunt id consequatur iusto incidunt tenetur voluptas. Dolorem omnis eum architecto ullam. Qui est iusto quia sint possimus cumque. Vero sunt temporibus esse. Et architecto repudiandae. Aut qui iure rerum deserunt odio minima corporis quia illo."
+    },
+    {
+      "id": 2,
+      "title": "hello world ",
+      "text": "Sequi unde fugiat non necessitatibus et. <ul>Molestiae aut non sapiente numquam consequatur et itaque. Aut harum aspernatur</ul>. Accusamus ducimus excepturi aliquid voluptatem rerum voluptas modi aut iure Ipsum non sed a non perferendis consectetur. Est molestias maiores quis facilis magnam incidunt. Magni omnis beatae fugit dolor. Ut fuga dignissimos corrupti ut. Nam repellendus recusandae sunt id consequatur iusto incidunt tenetur voluptas. Dolorem omnis eum architecto ullam. Qui est iusto quia sint possimus cumque. Vero sunt temporibus esse. Et architecto repudiandae. Aut qui iure rerum deserunt odio minima corporis quia illo."
+    },
+    {
+      "id": 3,
+      "title": "react is fun ",
+      "text": "Sequi unde fugiat non necessitatibus et. Molestiae aut non sapiente numquam consequatur et itaque. Aut harum aspernatur. Accusamus ducimus excepturi aliquid voluptatem rerum voluptas modi aut iure Ipsum non sed a non perferendis consectetur. Est molestias maiores quis facilis magnam incidunt. Magni omnis beatae fugit dolor. Ut fuga dignissimos corrupti ut. Nam repellendus recusandae sunt id consequatur iusto incidunt tenetur voluptas. Dolorem omnis eum architecto ullam. Qui est iusto quia sint possimus cumque. Vero sunt temporibus esse. Et architecto repudiandae. Aut qui iure rerum deserunt odio minima corporis quia illo."
+    },
+    {
+      "id": 4,
+      "title": "Linux is great os",
+      "text": "Sequi unde fugiat non necessitatibus et. Molestiae aut non sapiente numquam consequatur et itaque. Aut harum aspernatur. Accusamus ducimus excepturi aliquid voluptatem rerum voluptas modi aut iure Ipsum non sed a non perferendis consectetur. Est molestias maiores quis facilis magnam incidunt. Magni omnis beatae fugit dolor. Ut fuga dignissimos corrupti ut. Nam repellendus recusandae sunt id consequatur iusto incidunt tenetur voluptas. Dolorem omnis eum architecto ullam. Qui est iusto quia sint possimus cumque. Vero sunt temporibus esse. Et architecto repudiandae. Aut qui iure rerum deserunt odio minima corporis quia illo."
+    },
+    {
+      "id": 5,
+      "title": "this is another blog ",
+      "text": "Sequi unde fugiat non necessitatibus et. Molestiae aut non sapiente numquam consequatur et itaque. Aut harum aspernatur. Accusamus ducimus excepturi aliquid voluptatem rerum voluptas modi aut iure Ipsum non sed a non perferendis consectetur. Est molestias maiores quis facilis magnam incidunt. Magni omnis beatae fugit dolor. Ut fuga dignissimos corrupti ut. Nam repellendus recusandae sunt id consequatur iusto incidunt tenetur voluptas. Dolorem omnis eum architecto ullam. Qui est iusto quia sint possimus cumque. Vero sunt temporibus esse. Et architecto repudiandae. Aut qui iure rerum deserunt odio minima corporis quia illo."
+    }
+  ]
+}

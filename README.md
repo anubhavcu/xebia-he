@@ -1,3 +1,21 @@
+# to start the development server -
+
+### `npm run dev`
+
+Added features -
+
+- created a mock server which loads the blogs content
+- rendered resume on homepage
+- /blogs page lists all the blogs created in the past
+- blogs page is interactive, shows cards of individual blogs
+- added a form to create a new blog on /blogs/new
+- embeded CKeditor to fill the content of the blog
+- implemented a search bar in /blogs, which searches the typed text present in the blog
+
+Issues -
+
+- POST request currently not working
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
